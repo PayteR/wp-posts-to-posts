@@ -1,0 +1,7 @@
+[submodule "wp-lib-posts-to-posts"]
+	path = "vendor/payter/wp-lib-posts-to-posts"
+	url = https://github.com/PayteR/wp-lib-posts-to-posts
+
+[submodule "wp-scb-framework"]
+	path = "vendor/payter/wp-scb-framework"
+	url = https://github.com/PayteR/wp-scb-framework

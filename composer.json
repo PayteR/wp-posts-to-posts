@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/scribu/wp-lib-posts-to-posts"
+            "url": "https://github.com/PayteR/wp-lib-posts-to-posts"
         }
     ]
 }
