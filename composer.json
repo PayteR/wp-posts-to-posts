@@ -1,18 +1,11 @@
 {
-    "name": "scribu/posts-to-posts",
+    "name": "payter/posts-to-posts",
     "type": "wordpress-plugin",
     "homepage": "http://wordpress.org/plugins/posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
         "composer/installers": "~1.0",
-        "scribu/lib-posts-to-posts": "dev-master",
         "mustache/mustache": "~2.6"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/PayteR/wp-lib-posts-to-posts"
-        }
-    ]
+    }
 }
